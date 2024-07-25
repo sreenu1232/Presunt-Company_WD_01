@@ -1,0 +1,147 @@
+.bg-image {
+    background-image: url('https://images.stockcake.com/public/a/8/e/a8e84d24-6169-429b-aba2-2e7f0bc8370b_large/sizzling-butter-chicken-stockcake.jpg');
+    background-size: cover;
+    height: 100%;
+}
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.navbar-image {
+    height: 50px;
+    width: 45px;
+    padding: 5px;
+}
+
+.image2 {
+    height: 40%;
+    width: 45%;
+    padding: 20px;
+    margin-left: 120px;
+}
+
+.taste-trove {
+    font-family: 'Bree serif';
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+.para {
+    font-family: 'Bree serif';
+    font-size: 30px;
+    color: white;
+    padding-top: 190px;
+    text-align: center;
+    padding-bottom: 190px;
+}
+
+.para2 {
+    font-family: 'Bree serif';
+    font-size: 20px;
+    color: black;
+    padding-bottom: 120px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.para3 {
+    font-family: 'Bree serif';
+    font-size: 20px;
+    color: black;
+    padding-top: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.contact {
+    color: orange;
+    margin: 4px;
+    font-weight: bold;
+    font-family: 'Arial';
+    font-size: 30px;
+}
+
+.img3 {
+    margin: 20px;
+    height: 10vh;
+    width: 10vw;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    display: inline-block;
+    transition: color 0.3s, background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: black;
+}
+
+.navbar-scrolled {
+    background-color: black;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.4);
+}
+
+.navbar-scrolled ul li a {
+    color: black;
+}
